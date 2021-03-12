@@ -1,0 +1,12 @@
+C:\Users\leepui\source\repos\ContactListProj1\ContactListProj1\bin\Release\netcoreapp3.1\ContactListProj1.exe
+C:\Users\leepui\source\repos\ContactListProj1\ContactListProj1\bin\Release\netcoreapp3.1\ContactListProj1.deps.json
+C:\Users\leepui\source\repos\ContactListProj1\ContactListProj1\bin\Release\netcoreapp3.1\ContactListProj1.runtimeconfig.json
+C:\Users\leepui\source\repos\ContactListProj1\ContactListProj1\bin\Release\netcoreapp3.1\ContactListProj1.runtimeconfig.dev.json
+C:\Users\leepui\source\repos\ContactListProj1\ContactListProj1\bin\Release\netcoreapp3.1\ContactListProj1.dll
+C:\Users\leepui\source\repos\ContactListProj1\ContactListProj1\bin\Release\netcoreapp3.1\ContactListProj1.pdb
+C:\Users\leepui\source\repos\ContactListProj1\ContactListProj1\obj\Release\netcoreapp3.1\ContactListProj1.AssemblyInfoInputs.cache
+C:\Users\leepui\source\repos\ContactListProj1\ContactListProj1\obj\Release\netcoreapp3.1\ContactListProj1.AssemblyInfo.cs
+C:\Users\leepui\source\repos\ContactListProj1\ContactListProj1\obj\Release\netcoreapp3.1\ContactListProj1.csproj.CoreCompileInputs.cache
+C:\Users\leepui\source\repos\ContactListProj1\ContactListProj1\obj\Release\netcoreapp3.1\ContactListProj1.dll
+C:\Users\leepui\source\repos\ContactListProj1\ContactListProj1\obj\Release\netcoreapp3.1\ContactListProj1.pdb
+C:\Users\leepui\source\repos\ContactListProj1\ContactListProj1\obj\Release\netcoreapp3.1\ContactListProj1.genruntimeconfig.cache
